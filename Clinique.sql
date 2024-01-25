@@ -79,7 +79,7 @@ INSERT INTO `Medicament` (`id_Medicament`, `nomCommercial`) VALUES
 (1, 'Doliprane'),
 (2, 'Advil'),
 (3, 'Smecta'),
-(4, 'SerumOMG');
+(4, 'Dalfalgan');
 
 -- --------------------------------------------------------
 
