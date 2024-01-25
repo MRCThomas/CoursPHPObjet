@@ -52,13 +52,13 @@ CREATE TABLE `Medecin` (
 INSERT INTO `Medecin` (`id_Medecin`, `Nom`, `Prenom`) VALUES
 (2, 'Pierre', 'Lorient'),
 (3, 'BORGNE', 'Valentin'),
-(4, 'OMG', 'FUERTE'),
-(5, 'Rodrigo', 'delamuerté'),
+(4, 'Bacque', 'Ludovic'),
+(5, 'Rodrigo', 'Courtet'),
 (6, 'THOMAS', 'Robin'),
-(24, 'Aurevoir', 'Madame'),
-(25, 'bernard ', 'boloss'),
+(24, 'Cartier', 'Yvon'),
+(25, 'bernard ', 'Dubos'),
 (26, 'Marlon', 'Brondo'),
-(27, 'bobo', 'nono');
+(27, 'Benoît', 'Pierrat');
 
 -- --------------------------------------------------------
 
